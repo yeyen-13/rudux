@@ -1,0 +1,7 @@
+0-70 =tidak lulus
+71-100 = lulus
+deklarai
+if nilai < 71
+print tidak lulus
+if nilai >= 71
+print lulus
